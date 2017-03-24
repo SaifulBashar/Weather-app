@@ -22,3 +22,24 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+img{
+    height: 150px;
+
+
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 40%;
+    font: 'Open Sans';
+    font-weight: lighter;
+}
+.about{
+    font: 'Open Sans';
+    font-weight: lighter;
+}
